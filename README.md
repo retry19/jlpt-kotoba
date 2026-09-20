@@ -7,7 +7,15 @@ Daftar kosakata default untuk aplikasi [flashcard-jlpt](https://github.com/retry
 Setiap level tersedia di `N{level}/kotoba.csv` dengan urutan kolom tetap:
 
 ```csv
-Kana,Kanji,Tipe,Definisi
+Kana,Kanji,Tipe,Definisi,Notes
+```
+
+Kolom `Notes` berisi catatan tambahan seperti batasan penggunaan, nuansa makna, atau konteks. Kolom ini boleh dikosongkan jika tidak ada catatan.
+
+Contoh:
+
+```csv
+ちいさい,小さい,adj-i,kecil,untuk barang/manusia
 ```
 
 URL data mentah mengikuti pola:
@@ -33,6 +41,6 @@ Data lama pada beberapa level masih menggunakan nama tipe berbahasa Indonesia. S
 3. Jangan membuat variasi penulisan untuk tipe yang sama.
 4. Dokumentasikan konstanta baru sebelum menggunakannya.
 5. Gunakan tanda kutip CSV jika nilai mengandung koma.
-6. Nilai Kana, Kanji, atau Tipe boleh kosong; jangan menukar posisi kolom.
+6. Nilai Kana, Kanji, Tipe, atau Notes boleh kosong; jangan menukar posisi kolom.
 
-Sebelum commit, pastikan setiap baris mempunyai tepat empat kolom dan tidak ada kosakata yang hilang atau terduplikasi tanpa sengaja.
+Sebelum commit, pastikan setiap baris mempunyai tepat lima kolom dan tidak ada kosakata yang hilang atau terduplikasi tanpa sengaja.

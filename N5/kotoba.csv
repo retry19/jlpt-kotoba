@@ -1,30 +1,65 @@
-Kana,Kanji,Tipe,Definisi
-せまい,狭い,adj-i,sempit
-ひろい,広い,adj-i,luas
-,おいしい,adj-i,enak/lezat
-あまい,甘い,adj-i,manis
-,りっぱ,adj-na,megah/mewah
-,きれい,adj-na,cantik/indah
-にがて,苦手,adj-na,payah/kurang suka
-わたし,私,n,saya
-がくせい,学生,n,siswa
-いしゃ,医者,n,dokter
-みず,水,n,air
-くだもの,果物,n,buah-buahan
-たべもの,食べ物,n,makanan
-のみもの,飲み物,n,minuman
-びょういん,病院,n,rumah sakit
-がっこう,学校,n,sekolah
-いえ,家,n,rumah
-かれ,彼,n,dia (laki-laki)
-かのじょ,彼女,n,dia (perempuan)
-,あなた,n,kamu
-へや,部屋,n,kamar/ruangan
-くに,国,n,negara
-,名前,n,nama
-,～さん,,(panggilan)
-,～人,,~orang/(jumlah)
-なに,何,,apa
-だれ,誰,,siapa
-,どこ,,dimana
-,どんな,,yang seperti
+Kana,Kanji,Tipe,Definisi,Notes
+せまい,狭い,adj-i,sempit,
+ひろい,広い,adj-i,luas,
+おいしい,美味しい,adj-i,enak/lezat,
+あまい,甘い,adj-i,manis,
+ちいさい,小さい,adj-i,kecil,untuk barang/manusia
+おおきい,大きい,adj-i,besar,untuk barang/manusia
+ふるい,古い,adj-i,tua,hanya untuk barang; tidak sopan untuk manusia
+あたらしい,新しい,adj-i,baru,
+おおい,多い,adj-i,banyak,
+すくない,少ない,adj-i,sedikit,
+からい,辛い,adj-i,pedas,
+やさしい,優しい,adj-i,baik/mudah,
+あかるい,明るい,adj-i,ceria/terang,
+ながい,長い,adj-i,panjang,
+みじかい,短い,adj-i,pendek,
+しずか,静か,adj-na,sepi,
+にぎやか,,adj-na,ramai,
+すき,好き,adj-na,suka,
+きらい,嫌い,adj-na,benci,meski berakhiran い tapi masuk adj-na
+りっぱ,adj-na,megah/mewah,
+きれい,綺麗,adj-na,cantik/indah,
+にがて,苦手,adj-na,payah/kurang suka,
+わたし,私,n,saya,
+がくせい,学生,n,siswa,
+いしゃ,医者,n,dokter,
+みず,水,n,air,
+くだもの,果物,n,buah-buahan,
+たべもの,食べ物,n,makanan,
+のみもの,飲み物,n,minuman,
+びょういん,病院,n,rumah sakit,
+がっこう,学校,n,sekolah,
+いえ,家,n,rumah,
+かれ,彼,n,dia (laki-laki),
+かのじょ,彼女,n,dia (perempuan),
+あなた,貴方,n,kamu,
+へや,部屋,n,kamar/ruangan,
+くに,国,n,negara,
+なまえ,名前,n,nama,
+あお (い),青 (い),n (adj-i),biru,
+あか (い),赤 (い),n (adj-i),merah,
+きいろ (い),黄色 (い),n (adj-i),kuning,
+しろ (い),白 (い),n (adj-i),putih,
+くろ (い),黒 (い),n (adj-i),hitam,
+ちゃいろ (い),茶色 (い),n (adj-i),coklat,
+オレンジいろ,,n,oranye,
+はいいろ,灰色,n,abu-abu,
+みどり,緑,n,hijau,
+むらさき,紫,n,ungu,
+みずいろ,水色,n,biru muda,
+ピンク,,n,pink,
+しま,島,n,pulau,
+ほん,本,n,buku,
+ランブウタン,,n,rambutan,
+かばん,鞄,n,tas,
+いぬ,犬,n,anjing,
+～さん,～さん,,(panggilan),
+～にん・じん,～人,,~orang/(jumlah),
+なに,何,,apa,
+だれ,誰,,siapa,
+どこ,,,dimana,
+どんな,,,yang seperti,
+どちら・どれ,,,yang mana,
+も,,,juga,
+と,,,dan,
