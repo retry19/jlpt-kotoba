@@ -4,6 +4,8 @@ Daftar kosakata default untuk aplikasi [flashcard-jlpt](https://github.com/retry
 
 ## Struktur data
 
+### Kotoba
+
 Setiap level tersedia di `N{level}/kotoba.csv` dengan urutan kolom tetap:
 
 ```csv
@@ -22,6 +24,67 @@ URL data mentah mengikuti pola:
 
 ```text
 https://raw.githubusercontent.com/retry19/jlpt-kotoba/main/N5/kotoba.csv
+```
+
+### Kanji
+
+Data kanji pada setiap level disimpan dalam dua file: `kanji.csv` dan
+`kanji_vocabulary.csv`.
+
+#### `kanji.csv`
+
+Berisi daftar kanji beserta pengucapan dan artinya, dengan urutan kolom tetap:
+
+```csv
+id,kanji,onyomi,kunyomi,meaning
+```
+
+Kolom `id` adalah pengenal kanji yang menjadi key relasi dengan
+`kanji_vocabulary.csv`. Jangan mengubah atau menggeser `id` yang sudah ada agar
+relasi tetap benar. Kolom `kanji` berisi karakter yang dipelajari dan dapat
+menyertakan okurigana, misalnya `出る`. Kolom `onyomi` atau `kunyomi` boleh
+kosong jika kanji tersebut tidak memiliki bacaan yang dicantumkan. Gunakan
+tanda kurung Jepang `（ ）` untuk menandai bagian okurigana dalam bacaan.
+
+Contoh:
+
+```csv
+1,一,イチ,ひと（つ）,satu
+2,二,ニ/ジ,ふた（つ）,dua
+3,三,サン,みっ（つ）,tiga
+```
+
+URL data mentah mengikuti pola:
+
+```text
+https://raw.githubusercontent.com/retry19/jlpt-kotoba/main/N5/kanji.csv
+```
+
+#### `kanji_vocabulary.csv`
+
+Berisi daftar kosakata yang berhubungan dengan kanji melalui `kanji_id`, dengan
+urutan kolom tetap. Satu kanji dapat memiliki nol atau lebih entri kosakata.
+
+```csv
+kanji_id,word,reading,meaning,type
+```
+
+Kolom `kanji_id` harus merujuk ke `id` yang tersedia dalam `kanji.csv`. Kolom
+`type` berisi `example` untuk contoh penggunaan reguler atau `exception` untuk
+kata dengan bacaan atau penggunaan khusus. Kolom `meaning` boleh kosong jika
+arti belum dicantumkan.
+
+Contoh:
+
+```csv
+15,先生,せんせい,guru,example
+15,先月,せんげつ,bulan lalu,example
+```
+
+URL data mentah mengikuti pola:
+
+```text
+https://raw.githubusercontent.com/retry19/jlpt-kotoba/main/N5/kanji_vocabulary.csv
 ```
 
 ## Konstanta `Tipe`
