@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lint CSV Files"
+  short_description: "Check CSV syntax and structural consistency"
+  default_prompt: "Use $lint-csv to lint the CSV files in this repository and report any errors."
