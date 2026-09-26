@@ -1,0 +1,4 @@
+interface:
+  display_name: "Validate Kanji Vocabulary IDs"
+  short_description: "Validate kanji_id references in kanji vocabulary CSV"
+  default_prompt: "Validate the kanji vocabulary IDs in this repository."
