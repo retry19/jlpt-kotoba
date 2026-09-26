@@ -1,0 +1,209 @@
+﻿kanji_id,word,reading,meaning,type
+15,先生,せんせい,guru,example
+15,先月,せんげつ,bulan lalu,example
+16,生徒,せいと,murid,example
+16,たん生日,たんじょうび,ulang tahun,example
+17,学生,がくせい,pelajar,example
+17,学校,がっこう,sekolah,example
+18,日本人,にほんじん,orang Jepang,example
+18,人,ひと,orang,example
+18,大人,おとな,orang dewasa,exception
+19,外国,がいこく,luar negri,example
+19,国,くに,negara,example
+20,男の人,おとこのひと,laki-laki,example
+20,男の子,おとこのこ,anak laki-laki,example
+21,女の人,おんなのひと,perempuan,example
+21,女の子,おんなのこ,anak perempuan,example
+21,かの女,かのじょ,kekasih (perempuan),example
+22,子供,こども,anak kecil,example
+23,友達,ともだち,teman,example
+24,父,ちち,ayah,example
+24,お父さん,おとうさん,ayah,exception
+25,母,はは,ibu,example
+25,お母さん,おかあさん,ibu,exception
+26,有名,ゆうめい,terkenal/populer,example
+26,名前,なまえ,nama,example
+27,田中さん,たなかさん,,example
+27,山田さん,やまださん,,example
+28,ふじ山,ふじさん,gunung Fuji,example
+28,山,やま,gunung,example
+29,日本語,にほんご,bahasa Jepang,example
+29,インドネシア語,インドネシアご,bahasa Indonesia,example
+29,えい語,えいご,bahasa Inggris,example
+30,日本,にほん,Jepang,example
+31,何時,なんじ,jam berapa,example
+31,何,なに,apa,example
+31,何語,なにご,bahasa apa,example
+32,九時,くじ,jam 9,example
+32,時計,とけい,jam,exception
+33,五分,ごふん,lima menit,example
+33,30分,さんじゅっぷん,30 menit,example
+33,半分,はんぶん,setengah,example
+34,時間,じかん,jam,example
+34,一週間,いっしゅうかん,satu minggu,example
+34,AとBの間,AとBのあいだ,diantara A dan B,example
+34,この間,このあいだ,belakangan ini,example
+34,間に合う,まにあう,keburu,example
+35,7時半,しちじはん,jam 7 lewat 30 menit,example
+35,一時間半,いちじかんはん,satu jam setengah,example
+36,午後,ごご,p.m,example
+37,午前,ごぜん,a.m,example
+37,前,まえ,depan,example
+37,名前,なまえ,nama,example
+38,午後,ごご,p.m,example
+38,後で,あとで,nanti,example
+38,後ろ,うしろ,belakang,example
+39,今月,こんげつ,bulan ini,example
+39,今,いま,sekarang,example
+39,今日,きょう,hari ini,exception
+39,今年,ことし,tahun ini,exception
+39,今朝,けさ,pagi ini,exception
+40,先週,せんしゅう,minggu lalu,example
+40,来週,らいしゅう,minggu depan,example
+41,一年,いちねん,satu tahun,example
+41,去年,きょねん,tahun lalu,example
+41,今年,ことし,tahun ini,example
+41,来年,らいねん,tahun depan,example
+41,半年,はんとし,setengah tahun,example
+42,毎年,まいとし,setiap tahun,example
+42,毎月,まいつき,setiap bulan,example
+42,毎日,まいにち,setiap hari,example
+43,少し,すこし,sedikit,example
+43,少ない,すくない,sedikit,example
+44,多い,おおい,banyak,example
+45,小学校,しょうがっこう,SD,example
+45,小さい,ちいさい,kecil,example
+46,大学,だいがく,universitas,example
+46,大変な,たいへんな,sulit,example
+46,大切な,たいせつな,penting,example
+46,大きい,おおきい,besar,example
+47,安全な,あんぜんな,aman,example
+47,安い,やすい,murah,example
+48,高校,こうこう,SMA,example
+48,高い,たかい,tinggi,example
+49,新聞,しんぶん,koran,example
+49,新しい,あたらしい,baru,example
+50,古い,ふるい,lama/tua,example
+51,早い,はやい,cepat,example
+52,社長,しゃちょう,bos,example
+52,長い,ながい,panjang,example
+53,学校,がっこう,sekolah,example
+53,校長,こうちょう,kepala sekolah,example
+54,会社,かいしゃ,kantor,example
+54,社員,しゃいん,pekerja kantor,example
+55,中学校,ちゅうがっこう,SMP,example
+55,一日中,いちにちじゅう,seharian,example
+55,中,なか,dalam,example
+56,新聞,しんぶん,koran,example
+56,聞く,きく,mendengar,example
+56,聞こえる,きこえる,terdengar,example
+57,駅,えき,stasiun,example
+58,口,くち,mulut,example
+59,出る,でる,keluar,example
+59,出す,だす,mengeluarkan,example
+59,出かける,でかける,pergi,example
+60,入る,はいる,masuk,example
+60,入口,いりぐち,pintu masuk,example
+60,入れる,いれる,memasukkan,example
+61,東京,とうきょう,Tokyo,example
+61,東口,ひがしぐち,pintu timur,example
+62,西洋,せいよう,barat,example
+62,西,にし,barat,example
+62,西口,にしぐち,pintu barat,example
+63,南,みなみ,selatan,example
+63,南口,みなみぐち,pintu selatan,example
+64,北海道,ほっかいどう,Hokkaido,example
+64,北,きた,utara,example
+65,上手な,じょうずな,mahir/ahli,example
+65,上,うえ,atas,example
+65,上着,うわぎ,atasan,example
+66,下,した,bawah,example
+66,地下鉄,ちかてつ,kereta bawah tanah,example
+66,下手な,へたな,payah,exception
+67,左,ひだり,kiri,example
+68,右,みぎ,kanan,example
+69,外国,がいこく,luar negri,example
+69,外国人,がいこくじん,orang asing,example
+69,外,そと,luar,example
+70,休む,やすむ,libur,example
+70,昼休み,ひるやすみ,istirahat makan siang,example
+70,休み,やすみ,libur,example
+71,見学,けんがく,wisata,example
+71,見物,けんぶつ,melihat-lihat,example
+71,見る,みる,melihat,example
+71,見せる,みせる,memperlihatkan,example
+71,見える,みえる,terlihat,example
+72,言う,いう,berkata,example
+72,言葉,ことば,kosakata,example
+73,銀行,ぎんこう,bank,example
+73,旅行,りょこう,jalan-jalan,example
+73,行く,いく,pergi,example
+74,辞書,じしょ,kamus,example
+74,書く,かく,tulis,example
+75,読む,よむ,baca,example
+76,買う,かう,beli,example
+76,買い物,かいもの,belanja,example
+77,来月,らいげつ,bulan depan,example
+77,来週,らいしゅう,minggu depan,example
+77,来る,くる,datang,example
+77,来ない,こない,tidak datang,exception
+77,来た,きた,telah datang,exception
+78,立つ,たつ,berdiri,example
+79,飲む,のむ,minum,example
+79,飲み物,のみもの,minuman,example
+80,食事,しょくじ,makan,example
+80,食道,しょくどう,kantin,example
+80,食料品,しょくりょうひん,bahan makanan,example
+80,食べる,たべる,makan,example
+80,食べ物,たべもの,makanan,example
+81,会社,かいしゃ,kantor/perusahaan,example
+81,会う,あう,bertemu,example
+81,会話,かいわ,berdialog,example
+82,電車,でんしゃ,kereta,example
+82,電気,でんき,listrik/lampu,example
+83,電話,でんわ,telefon,example
+83,会話,かいわ,dialog,example
+83,話す,はなす,bicara,example
+83,話,はなし,topik,example
+84,自動車,じてんしゃ,transportasi,example
+84,自転車,じてんしゃ,sepeda,example
+84,車,くるま,mobil,example
+85,花びん,かびん,vas bunga,example
+85,花,はな,bunga,example
+85,花見,はなみ,melihat bunga,example
+85,花火,はなび,kembang api,example
+86,天気,てんき,cuaca,example
+87,天気,てんき,cuaca,example
+87,電気,でんき,listrik,example
+87,元気,げんき,sehat,example
+87,病気,びょうき,sakit,example
+88,耳,みみ,telinga,example
+89,手,て,tangan,example
+89,お手洗い,おてあらい,kamar kecil,example
+89,上手な,じょうずな,ahli,exception
+90,足,あし,kaki,example
+90,足りる,たりる,cukup,example
+90,足す,たす,tambah,example
+91,目,め,mata,example
+91,一つ目,ひとつめ,yang pertama,example
+91,二つ目,ふたつめ,yang kedua,example
+91,三つ目,みっつめ,yang ketiga,example
+92,力,ちから,tenaga,example
+92,力持ち,ちからもち,otang yang kuat,example
+93,川,かわ,sungai,example
+94,牛肉,ぎゅうにく,daging sapi,example
+94,牛乳,ぎゅうにゅう,susu sapi,example
+94,牛,うし,sapi,example
+95,魚,さかな,ikan,example
+95,魚屋,さかなや,toko ikan,example
+96,きっさ店,きっさてん,café,example
+96,店,みせ,toko,example
+97,道,みち,jalan,example
+98,門,もん,gerbang,example
+98,専門,せんもん,keahlian/spesialis,example
+99,雨,あめ,hujan,example
+100,空気,きううき,aura/udara,example
+100,空,そら,langit (dalam bumi),example
+100,空港,くうこう,bandara,example
+101,白い,しろい,putih,example
+101,白,しろ,putih,example

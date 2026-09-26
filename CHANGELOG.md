@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file.
 - Added additional N5 vocabulary entries and usage notes.
 - Documented the five-column CSV schema and `Notes` guidance in `README.md`.
 - Added an agent skill and shell script for validating `kanji_id` references.
+- Added the N5 kanji and related vocabulary datasets.
 
 ### Changed
 
